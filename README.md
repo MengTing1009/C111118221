@@ -5,11 +5,19 @@
 ##### C111118221
 ###### C111118221
 
-`small zone`
+`small zone
+資管二乙 黃孟婷
+`
 
 ```big zone
-1
-2
+資管二乙 黃孟婷
 ```
+
+- [ ] todo list
+- [X] done
+
+:smile:
+:dog2:
+:taiwan:
 
 ![卡比獸](卡比獸.jpg)
